@@ -107,9 +107,8 @@ driver = webdriver.Chrome()
 airports = ['LAX', 'ORD', 'MIA', 'SJU', 'YUL', 'LHR']
 
 # jan, feb, march, april, etc.
-dates = list(map(str, range(20200601,20201232))) + list(map(str, range(20210101,20210128)))
-# list(map(str,range(20200127, 20200132))) + list(map(str,range(20200201,20200230))) + list(map(str, range(20200301,20200332))) + list(map(str, range(20200405,20200431))) + list(map(str, range(20200501,20200532))) +list(map(str, range(20200601,20200631)))
-# list(map(str, range(20200726,20200732))) + list(map(str, range(20200801,20200832))) + list(map(str, range(20200901,20200931))) + list(map(str, range(20201001,20201032))) + list(map(str, range(20201101,20201131))) + 
+dates = list(map(str,range(20200127, 20200132))) + list(map(str,range(20200201,20200230))) + list(map(str, range(20200301,20200332))) + list(map(str, range(20200405,20200431))) + list(map(str, range(20200501,20200532))) +list(map(str, range(20200601,20200631))) + list(map(str, range(20200701,20200732))) + list(map(str, range(20200801,20200832))) + list(map(str, range(20200901,20200931))) + list(map(str, range(20201001,20201032))) + list(map(str, range(20201101,20201131))) + list(map(str, range(20201201,20201232))) + list(map(str, range(20210101,20210128)))
+# 
 # Execute flight scraper
 start_scrape = time.time() # time started scraping
 mainscraper(dates, airports) # scrape function
