@@ -1,0 +1,166 @@
+departure_date,price,airline,start_airport,end_airport,start_end_time,duration,fly_score
+20200404,$189,"JFK - LAX, American",JFK,LAX,9:30 PM - 1:00 AM+1,6h 30m,FlyScore 7.9
+20200404,$189,"JFK - LAX, American",JFK,LAX,8:30 PM - 12:05 AM+1,6h 35m,FlyScore 7.9
+20200404,$214,"JFK - LAX, JetBlue",JFK,LAX,9:29 PM - 12:55 AM+1,6h 26m,null
+20200404,$279,"JFK - LAX, American",JFK,LAX,2:30 PM - 5:55 PM,6h 25m,FlyScore 7.9
+20200404,$89,"LGA - ORD, United",LGA,ORD,7:00 AM - 8:34 AM,2h 34m,FlyScore 7.6
+20200404,$114,"JFK - ORD, JetBlue",JFK,ORD,7:36 AM - 9:27 AM,2h 51m,FlyScore 8.5
+20200404,$119,"LGA - ORD, United",LGA,ORD,6:00 AM - 7:34 AM,2h 34m,FlyScore 7.1
+20200404,$137,"LGA - ORD, United",LGA,ORD,8:00 AM - 9:34 AM,2h 34m,FlyScore 7.1
+20200404,$137,"LGA - ORD, United",LGA,ORD,1:00 PM - 2:45 PM,2h 45m,FlyScore 7.6
+20200404,$137,"LGA - ORD, United",LGA,ORD,12:00 PM - 1:46 PM,2h 46m,FlyScore 7.6
+20200404,$159,"EWR - ORD, United",EWR,ORD,7:29 AM - 9:04 AM,2h 35m,FlyScore 7.6
+20200404,$159,"EWR - ORD, United",EWR,ORD,2:30 PM - 4:11 PM,2h 41m,FlyScore 8.1
+20200404,$159,"EWR - ORD, United",EWR,ORD,9:59 AM - 11:47 AM,2h 48m,FlyScore 7.6
+20200404,$159,"EWR - ORD, United",EWR,ORD,8:29 AM - 10:19 AM,2h 50m,FlyScore 7.6
+20200404,$171,"EWR - ORD, American",EWR,ORD,3:57 PM - 5:35 PM,2h 38m,FlyScore 5.9
+20200404,$171,"EWR - ORD, American",EWR,ORD,9:00 AM - 10:52 AM,2h 52m,FlyScore 7.0
+20200404,$174,"LGA - ORD, Spirit",LGA,ORD,8:35 AM - 10:25 AM,2h 50m,FlyScore 6.5
+20200404,$179,"LGA - ORD, American",LGA,ORD,1:30 PM - 3:16 PM,2h 46m,FlyScore 5.9
+20200404,$179,"LGA - ORD, American",LGA,ORD,7:30 AM - 9:17 AM,2h 47m,FlyScore 6.4
+20200404,$179,"LGA - ORD, American",LGA,ORD,3:30 PM - 5:22 PM,2h 52m,FlyScore 6.4
+20200404,$189,"EWR - ORD, United",EWR,ORD,1:14 PM - 2:45 PM,2h 31m,FlyScore 7.6
+20200404,$189,"EWR - ORD, United",EWR,ORD,6:36 PM - 8:25 PM,2h 49m,FlyScore 7.6
+20200404,$219,"EWR - ORD, American",EWR,ORD,6:00 AM - 7:31 AM,2h 31m,FlyScore 5.9
+20200404,$219,"EWR - ORD, United",EWR,ORD,6:30 AM - 8:05 AM,2h 35m,FlyScore 7.6
+20200404,$214,"JFK - ORD, JetBlue",JFK,ORD,3:59 PM - 5:58 PM,2h 59m,FlyScore 8.1
+20200404,$219,"EWR - ORD, United",EWR,ORD,4:41 PM - 6:18 PM,2h 37m,FlyScore 7.6
+20200404,$224,"LGA - ORD, American",LGA,ORD,12:30 PM - 2:20 PM,2h 50m,FlyScore 5.9
+20200404,$238,"LGA - ORD, United",LGA,ORD,9:00 AM - 10:45 AM,2h 45m,FlyScore 7.6
+20200404,$288,"LGA - ORD, United",LGA,ORD,5:00 PM - 6:50 PM,2h 50m,null
+20200404,$288,"EWR - ORD, American",EWR,ORD,5:38 PM - 7:30 PM,2h 52m,FlyScore 7.2
+20200404,$288,"LGA - ORD, United",LGA,ORD,3:00 PM - 4:53 PM,2h 53m,null
+20200404,$288,"LGA - ORD, United",LGA,ORD,11:00 AM - 12:54 PM,2h 54m,null
+20200404,$231,"LGA - MIA, Frontier",LGA,MIA,10:46 PM - 1:52 AM+1,3h 6m,FlyScore 6.3
+20200404,$229,"LGA - MIA, American",LGA,MIA,5:30 PM - 8:50 PM,3h 20m,FlyScore 6.4
+20200404,$229,"LGA - MIA, American",LGA,MIA,3:30 PM - 6:52 PM,3h 22m,FlyScore 6.4
+20200404,$239,"EWR - MIA, United",EWR,MIA,9:15 PM - 12:23 AM+1,3h 8m,FlyScore 7.6
+20200404,$239,"EWR - MIA, United",EWR,MIA,7:14 PM - 10:30 PM,3h 16m,FlyScore 7.6
+20200404,$260,"EWR - MIA, Frontier",EWR,MIA,6:29 AM - 9:46 AM,3h 17m,FlyScore 6.3
+20200404,$260,"EWR - MIA, Frontier",EWR,MIA,1:29 PM - 4:46 PM,3h 17m,FlyScore 6.3
+20200404,$279,"LGA - MIA, American",LGA,MIA,6:00 AM - 9:11 AM,3h 11m,FlyScore 7.7
+20200404,$279,"LGA - MIA, American",LGA,MIA,11:30 AM - 2:48 PM,3h 18m,FlyScore 6.4
+20200404,$279,"LGA - MIA, American",LGA,MIA,12:30 PM - 3:50 PM,3h 20m,FlyScore 6.4
+20200404,$287,"EWR - MIA, American",EWR,MIA,5:33 PM - 8:49 PM,3h 16m,FlyScore 6.4
+20200404,$319,"EWR - MIA, United",EWR,MIA,1:05 PM - 4:08 PM,3h 3m,FlyScore 7.6
+20200404,$319,"EWR - MIA, United",EWR,MIA,2:00 PM - 5:04 PM,3h 4m,FlyScore 7.1
+20200404,$319,"EWR - MIA, United",EWR,MIA,4:59 PM - 8:15 PM,3h 16m,FlyScore 7.6
+20200404,$354,"JFK - MIA, American",JFK,MIA,12:59 PM - 4:02 PM,3h 3m,FlyScore 6.8
+20200404,$354,"JFK - MIA, American",JFK,MIA,6:07 AM - 9:16 AM,3h 9m,FlyScore 7.4
+20200404,$354,"LGA - MIA, American",LGA,MIA,6:35 AM - 9:48 AM,3h 13m,FlyScore 6.4
+20200404,$354,"LGA - MIA, American",LGA,MIA,8:30 AM - 11:52 AM,3h 22m,FlyScore 6.4
+20200404,$354,"JFK - MIA, American",JFK,MIA,6:30 PM - 9:52 PM,3h 22m,FlyScore 6.4
+20200404,$354,"JFK - MIA, American",JFK,MIA,7:11 PM - 10:35 PM,3h 24m,FlyScore 6.4
+20200404,$379,"EWR - MIA, United",EWR,MIA,6:00 AM - 9:03 AM,3h 3m,FlyScore 7.6
+20200404,$384,"EWR - MIA, American",EWR,MIA,6:00 AM - 9:10 AM,3h 10m,FlyScore 6.4
+20200404,$384,"EWR - MIA, American",EWR,MIA,6:33 AM - 9:43 AM,3h 10m,FlyScore 6.4
+20200404,$384,"EWR - MIA, American",EWR,MIA,11:00 AM - 2:13 PM,3h 13m,FlyScore 6.4
+20200404,$520,"EWR - MIA, United",EWR,MIA,7:29 AM - 10:32 AM,3h 3m,FlyScore 7.1
+20200404,$520,"EWR - MIA, United",EWR,MIA,11:24 AM - 2:27 PM,3h 3m,FlyScore 7.6
+20200404,$164,"EWR - SJU, JetBlue",EWR,SJU,11:18 PM - 3:05 AM+1,3h 47m,FlyScore 8.5
+20200404,$169,"EWR - SJU, United",EWR,SJU,11:59 PM - 3:50 AM+1,3h 51m,FlyScore 7.6
+20200404,$169,"JFK - SJU, JetBlue",JFK,SJU,10:27 PM - 2:24 AM+1,3h 57m,FlyScore 8.2
+20200404,$169,"EWR - SJU, United",EWR,SJU,8:13 PM - 12:15 AM+1,4h 2m,FlyScore 7.7
+20200404,$179,"EWR - SJU, Frontier",EWR,SJU,12:20 PM - 4:53 PM,4h 33m,FlyScore 5.9
+20200404,$189,"JFK - SJU, JetBlue",JFK,SJU,11:45 PM - 3:32 AM+1,3h 47m,FlyScore 8.5
+20200404,$206,"EWR - SJU, Spirit",EWR,SJU,12:55 AM - 5:02 AM,4h 7m,FlyScore 5.6
+20200404,$203,"EWR - SJU, Spirit",EWR,SJU,10:20 AM - 2:37 PM,4h 17m,FlyScore 5.6
+20200404,$214,"EWR - SJU, JetBlue",EWR,SJU,9:45 PM - 1:34 AM+1,3h 49m,FlyScore 8.5
+20200404,$279,"JFK - SJU, JetBlue",JFK,SJU,3:26 PM - 7:28 PM,4h 2m,FlyScore 8.8
+20200404,$314,"JFK - SJU, JetBlue",JFK,SJU,5:06 AM - 8:52 AM,3h 46m,FlyScore 8.2
+20200404,$349,"JFK - SJU, JetBlue",JFK,SJU,9:09 AM - 1:06 PM,3h 57m,FlyScore 8.5
+20200404,$389,"EWR - SJU, JetBlue",EWR,SJU,9:46 AM - 1:48 PM,4h 2m,FlyScore 8.8
+20200404,$392,"EWR - SJU, United",EWR,SJU,8:55 AM - 1:07 PM,4h 12m,FlyScore 8.0
+20200404,$105,"LGA - YUL, United",LGA,YUL,6:40 AM - 8:04 AM,1h 24m,FlyScore 5.9
+20200404,$105,"LGA - YUL, United",LGA,YUL,8:40 AM - 10:04 AM,1h 24m,FlyScore 5.9
+20200404,$105,"LGA - YUL, United",LGA,YUL,12:55 PM - 2:19 PM,1h 24m,FlyScore 5.9
+20200404,$105,"LGA - YUL, United",LGA,YUL,3:45 PM - 5:09 PM,1h 24m,FlyScore 5.9
+20200404,$105,"LGA - YUL, United",LGA,YUL,5:40 PM - 7:04 PM,1h 24m,FlyScore 5.9
+20200404,$105,"LGA - YUL, United",LGA,YUL,7:55 PM - 9:19 PM,1h 24m,FlyScore 5.9
+20200404,$104,"EWR - YUL, United",EWR,YUL,3:45 PM - 5:09 PM,1h 24m,FlyScore 5.9
+20200404,$105,"LGA - YUL, Air Canada",LGA,YUL,3:45 PM - 5:09 PM,1h 24m,FlyScore 5.9
+20200404,$105,"LGA - YUL, Air Canada",LGA,YUL,5:40 PM - 7:04 PM,1h 24m,FlyScore 5.9
+20200404,$105,"LGA - YUL, United",LGA,YUL,5:40 PM - 7:04 PM,1h 24m,FlyScore 5.9
+20200404,$105,"LGA - YUL, United",LGA,YUL,7:55 PM - 9:19 PM,1h 24m,FlyScore 5.9
+20200404,$105,"LGA - YUL, Air Canada",LGA,YUL,7:55 PM - 9:19 PM,1h 24m,FlyScore 5.9
+20200404,$104,"EWR - YUL, Air Canada",EWR,YUL,10:55 AM - 12:24 PM,1h 29m,FlyScore 5.9
+20200404,$104,"EWR - YUL, Air Canada",EWR,YUL,3:55 PM - 5:24 PM,1h 29m,FlyScore 5.9
+20200404,$104,"EWR - YUL, Air Canada",EWR,YUL,5:50 PM - 7:19 PM,1h 29m,FlyScore 5.9
+20200404,$104,"EWR - YUL, United",EWR,YUL,5:50 PM - 7:19 PM,1h 29m,FlyScore 5.9
+20200404,$105,"LGA - YUL, Air Canada",LGA,YUL,10:55 AM - 12:20 PM,1h 25m,null
+20200404,$105,"LGA - YUL, United",LGA,YUL,10:55 AM - 12:20 PM,1h 25m,null
+20200404,$104,"LGA - YUL, WestJet",LGA,YUL,11:40 AM - 1:21 PM,1h 41m,FlyScore 5.9
+20200404,$104,"EWR - YUL, United",EWR,YUL,7:40 PM - 9:28 PM,1h 48m,FlyScore 5.2
+20200404,$115,"LGA - YUL, American",LGA,YUL,4:11 PM - 5:48 PM,1h 37m,FlyScore 5.2
+20200404,$115,"LGA - YUL, American",LGA,YUL,11:55 AM - 1:35 PM,1h 40m,FlyScore 5.2
+20200404,$135,"JFK - YUL, WestJet",JFK,YUL,9:10 PM - 10:56 PM,1h 46m,FlyScore 5.2
+20200404,$143,"EWR - YUL, Air Canada",EWR,YUL,7:40 PM - 9:28 PM,1h 48m,FlyScore 5.2
+20200404,$169,"JFK - YUL, WestJet",JFK,YUL,9:45 AM - 11:28 AM,1h 43m,FlyScore 5.2
+20200404,$183,"JFK - YUL, American",JFK,YUL,5:29 PM - 7:08 PM,1h 39m,FlyScore 5.2
+20200404,$202,"EWR - YUL, United",EWR,YUL,2:40 PM - 4:19 PM,1h 39m,FlyScore 5.2
+20200404,"$1,099","EWR - LHR, United",EWR,LHR,8:30 AM - 8:40 PM,7h 10m,FlyScore 8.3
+20200404,"$1,099","EWR - LHR, United",EWR,LHR,7:00 PM - 7:10 AM+1,7h 10m,FlyScore 8.3
+20200404,"$1,099","EWR - LHR, United",EWR,LHR,8:00 PM - 8:10 AM+1,7h 10m,FlyScore 8.3
+20200404,"$1,099","EWR - LHR, United",EWR,LHR,10:00 PM - 10:10 AM+1,7h 10m,FlyScore 8.3
+20200404,"$1,099","EWR - LHR, United",EWR,LHR,6:00 PM - 6:20 AM+1,7h 20m,FlyScore 8.3
+20200404,"$1,099","EWR - LHR, United",EWR,LHR,9:00 PM - 9:20 AM+1,7h 20m,FlyScore 8.3
+20200404,"$1,113","JFK - LHR, British Airways",JFK,LHR,7:55 AM - 7:45 PM,6h 50m,FlyScore 8.0
+20200404,"$1,099","JFK - LHR, Finnair",JFK,LHR,8:10 PM - 8:20 AM+1,7h 10m,FlyScore 8.0
+20200404,"$1,099","EWR - LHR, Virgin Atlantic",EWR,LHR,9:45 PM - 9:55 AM+1,7h 10m,FlyScore 6.2
+20200404,"$1,099","JFK - LHR, Virgin Atlantic",JFK,LHR,10:00 PM - 10:10 AM+1,7h 10m,FlyScore 8.5
+20200404,"$1,099","EWR - LHR, United",EWR,LHR,10:00 PM - 10:10 AM+1,7h 10m,FlyScore 8.3
+20200404,"$1,099","JFK - LHR, Virgin Atlantic",JFK,LHR,11:00 PM - 11:10 AM+1,7h 10m,FlyScore 8.6
+20200404,"$1,099","JFK - LHR, Finnair",JFK,LHR,7:25 PM - 7:40 AM+1,7h 15m,FlyScore 5.9
+20200404,"$1,099","JFK - LHR, Virgin Atlantic",JFK,LHR,9:00 PM - 9:15 AM+1,7h 15m,FlyScore 6.2
+20200404,"$1,099","JFK - LHR, Finnair",JFK,LHR,10:35 PM - 10:50 AM+1,7h 15m,FlyScore 8.2
+20200404,"$1,099","EWR - LHR, United",EWR,LHR,6:00 PM - 6:20 AM+1,7h 20m,FlyScore 8.3
+20200404,"$1,099","JFK - LHR, Virgin Atlantic",JFK,LHR,7:00 PM - 7:20 AM+1,7h 20m,FlyScore 8.6
+20200404,"$1,099","EWR - LHR, United",EWR,LHR,9:00 PM - 9:20 AM+1,7h 20m,FlyScore 8.3
+20200404,"$1,099","JFK - LHR, Virgin Atlantic",JFK,LHR,6:00 PM - 6:25 AM+1,7h 25m,FlyScore 8.5
+20200404,"$1,113","JFK - LHR, Iberia",JFK,LHR,7:55 AM - 7:45 PM,6h 50m,FlyScore 8.0
+20200404,"$1,113","JFK - LHR, British Airways",JFK,LHR,7:55 AM - 7:45 PM,6h 50m,FlyScore 8.0
+20200404,"$1,113","JFK - LHR, British Airways",JFK,LHR,10:20 AM - 10:10 PM,6h 50m,FlyScore 5.9
+20200404,"$1,112","JFK - LHR, Air France",JFK,LHR,8:15 AM - 8:10 PM,6h 55m,FlyScore 6.2
+20200404,"$1,112","JFK - LHR, KLM",JFK,LHR,8:15 AM - 8:10 PM,6h 55m,FlyScore 6.2
+20200404,"$1,112","JFK - LHR, Air France",JFK,LHR,8:01 PM - 8:00 AM+1,7h 20m,FlyScore 8.3
+20200404,$628,"EWR - LHR, Austrian",EWR,LHR,9:00 PM - 9:20 AM+1,7h 20m,FlyScore 8.3
+20200404,$692,"JFK - LHR, Virgin Atlantic",JFK,LHR,8:01 PM - 8:00 AM+1,6h 59m,FlyScore 8.8
+20200404,$730,"JFK - LHR, Virgin Atlantic",JFK,LHR,8:15 AM - 8:10 PM,6h 55m,FlyScore 6.2
+20200404,$730,"EWR - LHR, Virgin Atlantic",EWR,LHR,9:45 PM - 9:55 AM+1,7h 10m,FlyScore 6.2
+20200404,$730,"JFK - LHR, Virgin Atlantic",JFK,LHR,10:00 PM - 10:10 AM+1,7h 10m,FlyScore 8.5
+20200404,$730,"JFK - LHR, Virgin Atlantic",JFK,LHR,11:00 PM - 11:10 AM+1,7h 10m,FlyScore 8.6
+20200404,$730,"JFK - LHR, Virgin Atlantic",JFK,LHR,9:00 PM - 9:15 AM+1,7h 15m,FlyScore 6.2
+20200404,$730,"JFK - LHR, Virgin Atlantic",JFK,LHR,7:00 PM - 7:20 AM+1,7h 20m,FlyScore 8.6
+20200404,$730,"JFK - LHR, Virgin Atlantic",JFK,LHR,6:00 PM - 6:25 AM+1,7h 25m,FlyScore 8.5
+20200404,"$1,098","JFK - LHR, Finnair",JFK,LHR,7:55 AM - 7:45 PM,6h 50m,FlyScore 8.0
+20200404,"$1,098","JFK - LHR, Finnair",JFK,LHR,10:20 AM - 10:10 PM,6h 50m,FlyScore 5.9
+20200404,"$1,098","JFK - LHR, Finnair",JFK,LHR,6:30 PM - 6:30 AM+1,7h 0m,FlyScore 8.0
+20200404,"$1,098","EWR - LHR, Finnair",EWR,LHR,9:35 PM - 9:35 AM+1,7h 0m,FlyScore 8.5
+20200404,"$1,098","JFK - LHR, Finnair",JFK,LHR,7:05 PM - 7:10 AM+1,7h 5m,FlyScore 8.5
+20200404,"$1,098","JFK - LHR, Finnair",JFK,LHR,9:00 PM - 9:05 AM+1,7h 5m,FlyScore 8.0
+20200404,"$1,098","JFK - LHR, Finnair",JFK,LHR,9:30 PM - 9:35 AM+1,7h 5m,FlyScore 8.5
+20200404,"$1,098","JFK - LHR, Finnair",JFK,LHR,11:00 PM - 11:05 AM+1,7h 5m,FlyScore 8.5
+20200404,"$1,098","EWR - LHR, Finnair",EWR,LHR,6:05 PM - 6:15 AM+1,7h 10m,FlyScore 8.5
+20200404,"$1,098","JFK - LHR, Finnair",JFK,LHR,6:10 PM - 6:20 AM+1,7h 10m,FlyScore 8.2
+20200404,"$1,098","JFK - LHR, Finnair",JFK,LHR,8:10 PM - 8:20 AM+1,7h 10m,FlyScore 8.0
+20200404,"$1,099","EWR - LHR, United",EWR,LHR,8:30 AM - 8:40 PM,7h 10m,FlyScore 8.3
+20200404,"$1,099","EWR - LHR, United",EWR,LHR,7:00 PM - 7:10 AM+1,7h 10m,FlyScore 8.3
+20200404,"$1,099","EWR - LHR, United",EWR,LHR,8:00 PM - 8:10 AM+1,7h 10m,FlyScore 8.3
+20200404,"$1,099","EWR - LHR, United",EWR,LHR,10:00 PM - 10:10 AM+1,7h 10m,FlyScore 8.3
+20200404,"$1,098","JFK - LHR, Finnair",JFK,LHR,7:25 PM - 7:40 AM+1,7h 15m,FlyScore 5.9
+20200404,"$1,098","JFK - LHR, Finnair",JFK,LHR,10:35 PM - 10:50 AM+1,7h 15m,FlyScore 8.2
+20200404,"$1,099","EWR - LHR, United",EWR,LHR,6:00 PM - 6:20 AM+1,7h 20m,FlyScore 8.3
+20200404,"$1,099","EWR - LHR, United",EWR,LHR,9:00 PM - 9:20 AM+1,7h 20m,FlyScore 8.3
+20200404,"$1,112","JFK - LHR, KLM",JFK,LHR,8:15 AM - 8:10 PM,6h 55m,FlyScore 6.2
+20200404,"$1,112","JFK - LHR, Air France",JFK,LHR,8:15 AM - 8:10 PM,6h 55m,FlyScore 6.2
+20200404,"$1,112","JFK - LHR, Air France",JFK,LHR,8:01 PM - 8:00 AM+1,6h 59m,FlyScore 8.8
+20200404,"$1,112","EWR - LHR, KLM",EWR,LHR,9:45 PM - 9:55 AM+1,7h 10m,FlyScore 6.2
+20200404,"$1,112","EWR - LHR, Air France",EWR,LHR,9:45 PM - 9:55 AM+1,7h 10m,FlyScore 6.2
+20200404,"$1,112","JFK - LHR, KLM",JFK,LHR,10:00 PM - 10:10 AM+1,7h 10m,FlyScore 8.5
+20200404,"$1,112","JFK - LHR, Air France",JFK,LHR,10:00 PM - 10:10 AM+1,7h 10m,FlyScore 8.5
+20200404,"$1,112","JFK - LHR, KLM",JFK,LHR,9:00 PM - 9:15 AM+1,7h 15m,FlyScore 6.2
+20200404,"$1,112","JFK - LHR, Air France",JFK,LHR,9:00 PM - 9:15 AM+1,7h 15m,FlyScore 6.2
+20200404,"$1,112","JFK - LHR, Air France",JFK,LHR,7:00 PM - 7:20 AM+1,7h 20m,FlyScore 8.6
+20200404,"$1,112","JFK - LHR, KLM",JFK,LHR,6:00 PM - 6:25 AM+1,7h 25m,FlyScore 8.5
+20200404,"$1,112","JFK - LHR, Air France",JFK,LHR,6:00 PM - 6:25 AM+1,7h 25m,FlyScore 8.5
+20200404,"$1,595","EWR - LHR, Austrian",EWR,LHR,8:30 AM - 8:40 PM,7h 10m,FlyScore 8.3

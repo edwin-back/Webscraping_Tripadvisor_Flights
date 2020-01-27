@@ -1,0 +1,44 @@
+price,airline,start_airport,start_end_time,duration,stop_type,fly_score
+$249,"JFK - CUN, Aeromexico",JFK,9:05 AM - 1:20 PM,4h 15m,Nonstop,FlyScore 7.4
+$272,"EWR - CUN, United",EWR,7:52 AM - 12:05 PM,4h 13m,Nonstop,FlyScore 7.7
+$272,"EWR - CUN, United",EWR,10:44 AM - 2:58 PM,4h 14m,Nonstop,FlyScore 7.7
+$272,"EWR - CUN, United",EWR,9:02 AM - 1:35 PM,4h 33m,Nonstop,FlyScore 7.7
+$284,"JFK - CUN, JetBlue",JFK,9:59 AM - 2:21 PM,4h 22m,Nonstop,FlyScore 8.4
+$257,"LGA - CUN, United",LGA,6:00 AM - 12:25 PM,6h 25m,"1 stop, IAD",FlyScore 6.2
+$257,"LGA - CUN, United",LGA,7:44 AM - 3:15 PM,7h 31m,"1 stop, IAH",FlyScore 6.1
+$257,"LGA - CUN, United",LGA,9:59 AM - 5:35 PM,7h 36m,"1 stop, IAH",NaN
+$257,"LGA - CUN, United",LGA,5:50 AM - 1:54 PM,8h 4m,"1 stop, IAH",NaN
+$277,"EWR - CUN, United",EWR,10:30 AM - 5:35 PM,7h 5m,"1 stop, IAH",FlyScore 6.6
+$277,"EWR - CUN, United",EWR,7:45 AM - 3:15 PM,7h 30m,"1 stop, IAH",FlyScore 6.1
+$257,"LGA - CUN, United",LGA,5:50 AM - 3:15 PM,9h 25m,"1 stop, IAH",NaN
+$257,"LGA - CUN, United",LGA,6:04 AM - 3:44 PM,9h 40m,"1 stop, DEN",FlyScore 5.9
+$277,"EWR - CUN, United",EWR,5:45 AM - 1:54 PM,8h 9m,"1 stop, IAH",FlyScore 6.6
+$257,"LGA - CUN, United",LGA,7:44 AM - 5:35 PM,9h 51m,"1 stop, IAH",FlyScore 5.9
+$302,"EWR - CUN, Aeromexico",EWR,2:44 PM - 8:55 PM,6h 11m,"1 stop, ATL",FlyScore 6.6
+$302,"EWR - CUN, Aeromexico",EWR,6:00 AM - 12:25 PM,6h 25m,"1 stop, ATL",FlyScore 6.6
+$308,"LGA - CUN, Spirit",LGA,6:30 AM - 12:29 PM,5h 59m,"1 stop, FLL",FlyScore 5.6
+$277,"EWR - CUN, United",EWR,9:00 AM - 5:35 PM,8h 35m,"1 stop, IAH",FlyScore 6.5
+$302,"EWR - CUN, Aeromexico",EWR,6:00 AM - 12:55 PM,6h 55m,"1 stop, DTW",FlyScore 6.7
+$277,"EWR - CUN, United",EWR,5:45 AM - 3:15 PM,9h 30m,"1 stop, IAH",FlyScore 6.4
+$302,"EWR - CUN, Aeromexico",EWR,6:00 AM - 1:48 PM,7h 48m,"1 stop, ATL",FlyScore 6.5
+$277,"EWR - CUN, United",EWR,7:45 AM - 5:35 PM,9h 50m,"1 stop, IAH",FlyScore 5.9
+$257,"LGA - CUN, United",LGA,5:50 AM - 5:35 PM,11h 45m,"1 stop, IAH",NaN
+$302,"EWR - CUN, Aeromexico",EWR,6:00 AM - 2:19 PM,8h 19m,"1 stop, DTW",FlyScore 6.7
+$302,"EWR - CUN, Aeromexico",EWR,6:00 AM - 3:05 PM,9h 5m,"1 stop, ATL",FlyScore 6.4
+$277,"EWR - CUN, United",EWR,5:45 AM - 5:35 PM,11h 50m,"1 stop, IAH",FlyScore 6.3
+$332,"EWR - CUN, Aeromexico",EWR,1:30 PM - 8:55 PM,7h 25m,"1 stop, ATL",FlyScore 6.9
+$354,"JFK - CUN, Aeromexico",JFK,6:00 AM - 12:25 PM,6h 25m,"1 stop, ATL",FlyScore 6.6
+$354,"JFK - CUN, Aeromexico",JFK,8:35 AM - 3:05 PM,6h 30m,"1 stop, ATL",FlyScore 7.1
+$354,"JFK - CUN, Aeromexico",JFK,6:59 AM - 2:19 PM,7h 20m,"1 stop, DTW",FlyScore 5.9
+$332,"EWR - CUN, Aeromexico",EWR,11:45 AM - 8:55 PM,9h 10m,"1 stop, ATL",FlyScore 6.8
+$257,"LGA - CUN, United",LGA,9:00 PM - 12:39 PM+1,15h 39m,"1 stop, ORD",NaN
+$354,"JFK - CUN, Aeromexico",JFK,6:00 AM - 1:48 PM,7h 48m,"1 stop, ATL",FlyScore 6.5
+$277,"EWR - CUN, United",EWR,8:55 PM - 11:25 AM+1,14h 30m,"1 stop, IAH",FlyScore 6.0
+$380,"EWR - CUN, Spirit",EWR,6:00 AM - 12:29 PM,6h 29m,"1 stop, FLL",FlyScore 5.5
+$257,"LGA - CUN, United",LGA,8:00 PM - 12:39 PM+1,16h 39m,"1 stop, ORD",FlyScore 5.1
+$354,"JFK - CUN, Aeromexico",JFK,6:00 AM - 3:05 PM,9h 5m,"1 stop, ATL",FlyScore 6.4
+$386,"EWR - CUN, Spirit",EWR,6:00 AM - 12:29 PM,6h 29m,"1 stop, FLL",FlyScore 5.5
+$257,"LGA - CUN, United",LGA,5:25 PM - 11:25 AM+1,18h 0m,"1 stop, IAH",FlyScore 5.3
+$252,"EWR - CUN, Spirit",EWR,6:05 PM - 12:29 PM+1,18h 24m,"1 stop, FLL",FlyScore 4.6
+$257,"LGA - CUN, United",LGA,9:00 PM - 3:30 PM+1,18h 30m,"1 stop, ORD",NaN
+$387,"JFK - CUN, Avianca",JFK,3:30 AM - 11:25 AM,7h 55m,"1 stop, SAL",FlyScore 6.2
